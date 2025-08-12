@@ -2,13 +2,13 @@
 # Replace the "raise NotImplementedError" line with the correct code!
    
 def print_the_instructors_name():
-    raise NotImplementedError
+    print("STEF")
 
 def print_the_number_of_this_room():
     raise NotImplementedError
 
 def split_this_string_at_each_space(input_string):
-    raise NotImplementedError
+    print(input_string.split(" "))
 
 def take_the_average_of_these_numbers(a, b):
     raise NotImplementedError
